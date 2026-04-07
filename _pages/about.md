@@ -32,31 +32,33 @@ I have published multiple papers in leading journals such as Journal of Fluid Me
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2025</div><img src='images/fractal.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [Anomalous scaling of passive scalar fluctuations in experiments of turbulent pipe flow](https://doi.org/10.1017/jfm.2025.10737).
+**Huixin Li**, Duo Xu, Guowei He
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- [Experimental study on space–time correlations of velocity and passive scalar fields in turbulent pipe flows](https://doi.org/10.1017/jfm.2025.10737).
+**Huixin Li**, Duo Xu, Guowei He
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- [Experimental investigation of fractal features of passive scalar mixing in turbulent pipe flow](https://doi.org/10.1017/jfm.2025.10454).
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Huixin Li**, Duo Xu, Guowei He
+
+- [Experimental study of turbulent mixing in a T-shaped mixer]([https://github.com](https://doi.org/10.1103/9g5s-68c3)).
+**Huixin Li**, Mohammad Mehdi Zamani Asl, Bastian Bäuerlein, Kerstin Avila, Duo Xu and Marc Avila
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.10* ZARM Young Talent Promotion Award, Germany
+- *2018.09* China Scholarship Council (CSC) PhD Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.10 - 2023.02*, Fluid Dynamics (PhD), ZARM, University of Bremen. 
+- *2015.09 - 2018.06*, Fluid Dynamics (Master), Institute of Mechanics, Chinese Academy of Sciences. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Conferences and Talks
+- *2025.09*, Oral presentation, Dublin, Ireland. 
+- *2025.07*, Chinese Congress of Theoretical and Applied Mechanics, Changsha.
+- *2024.08*, European Fluid Dynamics Conference, Aachen
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
