@@ -34,6 +34,9 @@ I have published multiple papers in leading journals such as Journal of Fluid Me
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2025</div><img src='images/fractal.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+</div>
+</div>
 
 - [Anomalous scaling of passive scalar fluctuations in experiments of turbulent pipe flow](https://doi.org/10.1017/jfm.2025.10737).
 **Huixin Li**, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), Guowei He
@@ -58,8 +61,7 @@ I have published multiple papers in leading journals such as Journal of Fluid Me
 
 - [A single-camera synthetic Schlieren method for the measurement of free liquid surfaces](https://doi.org/10.1007/s00348-021-03326-0).
 **Huixin Li**, [Marc Avila](https://www.zarm.uni-bremen.de/en/about-us/prof-dr-marc-avila), [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en)
-</div>
-</div>
+
 
 # 🎖 Honors and Awards
 - *2022.10* ZARM Young Talent Promotion Award, Germany
