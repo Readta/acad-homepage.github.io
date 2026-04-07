@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🎤 About me
+# 🎤 About Me
 I am Huixin Li, a Special Research Assistant (Postdoctoral Researcher) at the Institute of Mechanics, Chinese Academy of Sciences. My research focuses on turbulent mixing, wall-bounded turbulence, and optical measurement techniques in experimental fluid mechanics.
 
 I received my Ph.D. in Fluid Mechanics from ZARM, University of Bremen (Germany) under the support of the China Scholarship Council (CSC). During my doctoral studies, I was awarded the ZARM Young Talent Promotion Award (Förderverein ZARM: Nachwuchsförderung). Before that, I obtained my M.Sc. in Fluid Mechanics from the University of Chinese Academy of Sciences.
