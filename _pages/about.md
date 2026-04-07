@@ -64,6 +64,7 @@ I have published multiple papers in leading journals such as Journal of Fluid Me
 - *2022.10* ZARM Young Talent Promotion Award, Germany
 - *2018.09* China Scholarship Council (CSC) PhD Scholarship
 
+
 # 📖 Educations
 - *2018.10 - 2023.02*, Fluid Dynamics (PhD), ZARM, University of Bremen. 
 - *2015.09 - 2018.06*, Fluid Dynamics (Master), Institute of Mechanics, Chinese Academy of Sciences. 
