@@ -33,14 +33,14 @@ I have published multiple papers in leading journals such as Journal of Fluid Me
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026</div><img src='images/pipe.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026</div><img src='images/pipe.jpg' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Anomalous scaling of passive scalar fluctuations in experiments of turbulent pipe flow](https://doi.org/10.1017/jfm.2025.10737).
 **Huixin Li**, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), Guowei He
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2025</div><img src='images/fractal.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2025</div><img src='images/fractal.jpg' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">  
 - [Experimental study on space–time correlations of velocity and passive scalar fields in turbulent pipe flows](https://doi.org/10.1017/jfm.2025.10737).
 **Huixin Li**, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), Guowei He
@@ -51,7 +51,7 @@ I have published multiple papers in leading journals such as Journal of Fluid Me
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRF 2025</div><img src='images/Tmixer.jpg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRF 2025</div><img src='images/Tmixer.jpg' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 - [Experimental study of turbulent mixing in a T-shaped mixer]([https://github.com](https://doi.org/10.1103/9g5s-68c3)).
 **Huixin Li**, Mohammad Mehdi Zamani Asl, Bastian Bäuerlein, [Kerstin Avila](https://uol.de/en/physics/research/tucs/members), [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en) and [Marc Avila](https://www.zarm.uni-bremen.de/en/about-us/prof-dr-marc-avila)
