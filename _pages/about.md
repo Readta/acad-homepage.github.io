@@ -17,14 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Huixin Li, a Special Research Assistant (Postdoctoral Researcher) at the Institute of Mechanics, Chinese Academy of Sciences. My research focuses on turbulent mixing, wall-bounded turbulence, and optical measurement techniques in experimental fluid mechanics.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received my Ph.D. in Fluid Mechanics from ZARM, University of Bremen (Germany) under the support of the China Scholarship Council (CSC). During my doctoral studies, I was awarded the ZARM Young Talent Promotion Award (Förderverein ZARM: Nachwuchsförderung). Before that, I obtained my M.Sc. in Fluid Mechanics from the University of Chinese Academy of Sciences, and my B.Eng. in Engineering Mechanics from Nanjing University of Science and Technology.
+
+My research aims to understand turbulent scalar mixing, space-time correlations in wall turbulence, and experimental optical diagnostics, with applications in transport processes, mixing enhancement, and complex turbulent flows.
+
+I have published multiple papers in leading journals such as Journal of Fluid Mechanics, Physical Review Fluids, Experiments in Fluids, Experimental Thermal and Fluid Science, and others.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.03*: &nbsp;🎉🎉 The paper about "Anamolous scaling of passive scalar mixing in pipe flow" is accepeted in Journal of Fluid Mechanics. 
+- *2025.12*: &nbsp;🎉🎉 Two papers published in Journal of Fluid Mechanics and one paper published in Physical Review Fluids. 
 
 # 📝 Publications 
 
