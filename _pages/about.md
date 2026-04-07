@@ -26,10 +26,13 @@ My research aims to understand turbulent scalar mixing in wall turbulence, and e
 
 I have published multiple papers in leading journals such as Journal of Fluid Mechanics, Physical Review Fluids, Experiments in Fluids, Experimental Thermal and Fluid Science, and others.
 
+<span class='anchor' id='news'></span>
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 The paper about "Anomalous scaling of passive scalar mixing in pipe flow" is accepted in Journal of Fluid Mechanics. 
 - *2025.12*: &nbsp;🎉🎉 Two papers published in Journal of Fluid Mechanics and one paper published in Physical Review Fluids. 
+
+<span class='anchor' id='publications'></span>
 
 # 📝 Publications 
 
@@ -70,11 +73,13 @@ I have published multiple papers in leading journals such as Journal of Fluid Me
 - [A single-camera synthetic Schlieren method for the measurement of free liquid surfaces](https://doi.org/10.1007/s00348-021-03326-0).
 **Huixin Li**, [Marc Avila](https://www.zarm.uni-bremen.de/en/about-us/prof-dr-marc-avila), [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en)
 
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 - *2022.10* ZARM Young Talent Promotion Award, Germany
 - *2018.09* China Scholarship Council (CSC) PhD Scholarship
 
+<span class='anchor' id='educations'></span>
 
 # 📖 Educations
 - *2018.10 - 2023.02*, Fluid Dynamics (PhD), ZARM, University of Bremen. 
