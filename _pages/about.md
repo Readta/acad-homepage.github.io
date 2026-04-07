@@ -27,7 +27,7 @@ My research aims to understand turbulent scalar mixing in wall turbulence, and e
 I have published multiple papers in leading journals such as Journal of Fluid Mechanics, Physical Review Fluids, Experiments in Fluids, Experimental Thermal and Fluid Science, and others.
 
 
-# 🔥 News{#-news}
+# 🔥 News{#news}
 - *2026.03*: &nbsp;🎉🎉 The paper about "Anomalous scaling of passive scalar mixing in pipe flow" is accepted in Journal of Fluid Mechanics. 
 - *2025.12*: &nbsp;🎉🎉 Two papers published in Journal of Fluid Mechanics and one paper published in Physical Review Fluids. 
 
