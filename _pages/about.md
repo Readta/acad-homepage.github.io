@@ -22,9 +22,7 @@ I am Huixin Li, a Special Research Assistant (Postdoctoral Researcher) at the In
 
 I received my Ph.D. in Fluid Mechanics from ZARM, University of Bremen (Germany) under the support of the China Scholarship Council (CSC). During my doctoral studies, I was awarded the ZARM Young Talent Promotion Award (Förderverein ZARM: Nachwuchsförderung). Before that, I obtained my M.Sc. in Fluid Mechanics from the University of Chinese Academy of Sciences.
 
-My research aims to understand turbulent scalar mixing in wall turbulence, and experimental optical diagnostics, with applications in transport processes, mixing enhancement, and complex turbulent flows.
-
-I have published multiple papers in leading journals such as Journal of Fluid Mechanics, Physical Review Fluids, Experiments in Fluids, Experimental Thermal and Fluid Science, and others.
+My research focuses on **turbulent scalar mixing** in wall-bounded turbulence and experimental optical measurement techniques, with applications in transport phenomena, mixing enhancement, and complex turbulent flows. Researchers and students interested in these topics or potential collaborations are welcome to contact me at [lihuixin@imech.ac.cn](lihuixin@imech.ac.cn).
 
 <span class='anchor' id='news'></span>
 
