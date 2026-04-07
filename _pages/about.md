@@ -59,6 +59,7 @@ I have published multiple papers in leading journals such as Journal of Fluid Me
 - [A single-camera synthetic Schlieren method for the measurement of free liquid surfaces](https://doi.org/10.1007/s00348-021-03326-0).
 **Huixin Li**, [Marc Avila](https://www.zarm.uni-bremen.de/en/about-us/prof-dr-marc-avila), [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en)
 
+
 # 🎖 Honors and Awards
 - *2022.10* ZARM Young Talent Promotion Award, Germany
 - *2018.09* China Scholarship Council (CSC) PhD Scholarship
