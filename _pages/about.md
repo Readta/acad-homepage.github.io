@@ -32,9 +32,14 @@ I have published multiple papers in leading journals such as Journal of Fluid Me
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2025</div><img src='images/fractal.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026</div><img src='images/pipe.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2025</div><img src='images/fractal.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">  
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2025</div><img src='images/Tmixer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
 </div>
 </div>
 
