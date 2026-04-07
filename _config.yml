@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dr. Huixin Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Institute of Mechanics, Chinese Academy of Sciences"
   location         : "Beijing, China"
-  employer         : "Institute of Mechanics, Chinese Academy of Sciences"
+  employer         : # "Institute of Mechanics, Chinese Academy of Sciences"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=QmY_2XIAAAAJ&hl=en"
   email            : "lihuixin@imech.ac.cn"
