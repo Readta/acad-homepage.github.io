@@ -81,7 +81,14 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 
 # 📖 Educations
 - *2018.10 - 2023.02*: Fluid Dynamics (PhD), ZARM, University of Bremen. 
-- *2015.09 - 2018.06*: Fluid Dynamics (Master), Institute of Mechanics, Chinese Academy of Sciences. 
+- *2015.09 - 2018.06*: Fluid Dynamics (Master), Institute of Mechanics, Chinese Academy of Sciences.
+
+<span class='anchor' id='educations'></span>
+
+# 📖 Collaboration
+Longtime collaborator（alphabetical sort of the corresponding affiliation）
+- Prof. [Marc Avila](https://www.zarm.uni-bremen.de/en/about-us/prof-dr-marc-avila) (University of Bremen)
+
 
 # 💬 Conferences and Talks
 - *2025.09*, European Fluid Dynamics Conference, Dublin, Ireland. 
