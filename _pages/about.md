@@ -83,7 +83,7 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 - *2018.10 - 2023.02*, Fluid Dynamics (PhD), ZARM, University of Bremen. 
 - *2015.09 - 2018.06*, Fluid Dynamics (Master), Institute of Mechanics, Chinese Academy of Sciences.
 
-<span class='anchor' id='educations'></span>
+<span class='anchor' id='collaboration'></span>
 
 # 📖 Collaboration
 Longtime collaborator（alphabetical sort of the corresponding affiliation）
