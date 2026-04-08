@@ -74,14 +74,14 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 <span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
-- *2022.10*: ZARM Young Talent Promotion Award, Germany
-- *2018.09*: China Scholarship Council (CSC) PhD Scholarship
+- *2022.10*, ZARM Young Talent Promotion Award, Germany
+- *2018.09*, China Scholarship Council (CSC) PhD Scholarship
 
 <span class='anchor' id='educations'></span>
 
 # 📖 Educations
-- *2018.10 - 2023.02*: Fluid Dynamics (PhD), ZARM, University of Bremen. 
-- *2015.09 - 2018.06*: Fluid Dynamics (Master), Institute of Mechanics, Chinese Academy of Sciences.
+- *2018.10 - 2023.02*, Fluid Dynamics (PhD), ZARM, University of Bremen. 
+- *2015.09 - 2018.06*, Fluid Dynamics (Master), Institute of Mechanics, Chinese Academy of Sciences.
 
 <span class='anchor' id='educations'></span>
 
