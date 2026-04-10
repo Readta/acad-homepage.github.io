@@ -37,7 +37,7 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026 Under Review</div><img src='images/pipe.png' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [The effect of Schmidt number on space-time correlation of scalar fluctuations in wall-bounded shear flow].
-**Huixin Li**, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), Guowei He, 2026, *J. Fluid Mech.*.
+**Huixin Li**, Guowei He, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), 2026, *J. Fluid Mech.*.
 </div>
 </div>
 
