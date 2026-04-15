@@ -14,8 +14,6 @@ author_profile: true
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-<span class='anchor' id='publications'></span>
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026 Under Review</div><img src='images/pipe.png' alt="sym" width="75%"></div></div>
