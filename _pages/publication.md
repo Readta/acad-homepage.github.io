@@ -1,5 +1,10 @@
+---
+permalink: /publications/
+title: ""
+excerpt: ""
+author_profile: true
+---
 
-<span class='anchor' id='publications'></span>
 # 📝 Publications
 
 <div class='paper-box'>
