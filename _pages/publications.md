@@ -2,6 +2,7 @@
 title: "Publications"
 permalink: /publications/
 author_profile: true
+excerpt: ""
 redirect_from: 
   - /about/
   - /about.html
