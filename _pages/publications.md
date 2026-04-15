@@ -1,7 +1,7 @@
 ---
-permalink: /publications/
+layout: single
 title: "Publications"
-excerpt: ""
+permalink: /publications/
 author_profile: true
 ---
 
