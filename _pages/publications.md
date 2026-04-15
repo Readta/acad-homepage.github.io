@@ -11,7 +11,7 @@ author_profile: true
   <div class='paper-box-image'>
     <div>
       <div class="badge">JFM 2026 Under Review</div>
-      <img src='/acad-homepage.github.io/images/pipe.png' alt="pipe" width="75%">
+      <img src='{{ site.baseurl }}/images/pipe.png' alt="pipe" width="75%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -24,7 +24,7 @@ author_profile: true
   <div class='paper-box-image'>
     <div>
       <div class="badge">JFM 2026</div>
-      <img src='/acad-homepage.github.io/images/ASF.jpg' alt="ASF" width="75%">
+      <img src='{{ site.baseurl }}/images/ASF.jpg' alt="ASF" width="75%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -37,7 +37,7 @@ author_profile: true
   <div class='paper-box-image'>
     <div>
       <div class="badge">JFM 2025</div>
-      <img src='/acad-homepage.github.io/images/fractal.jpg' alt="fractal" width="75%">
+      <img src='{{ site.baseurl }}/images/fractal.jpg' alt="fractal" width="75%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -53,7 +53,7 @@ author_profile: true
   <div class='paper-box-image'>
     <div>
       <div class="badge">PRF 2025</div>
-      <img src='/acad-homepage.github.io/images/Tmixer.png' alt="Tmixer" width="75%">
+      <img src='{{ site.baseurl }}/images/Tmixer.png' alt="Tmixer" width="75%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
