@@ -30,6 +30,24 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 - *2026.03*: &nbsp;🎉🎉 The paper about "Anomalous scaling of passive scalar mixing in pipe flow" is accepted in Journal of Fluid Mechanics. 
 - *2025.12*: &nbsp;🎉🎉 Two papers published in Journal of Fluid Mechanics and one paper published in Physical Review Fluids. 
 
+<span class='anchor' id='honors-and-awards'></span>
+
+# 🎖 Honors and Awards
+- *2022.10*, ZARM Young Talent Promotion Award, Germany
+- *2018.09*, China Scholarship Council (CSC) PhD Scholarship
+
+<span class='anchor' id='educations'></span>
+
+# 📖 Educations
+- *2018.10 - 2023.02*, Fluid Dynamics (PhD), ZARM, University of Bremen. 
+- *2015.09 - 2018.06*, Fluid Dynamics (Master), Institute of Mechanics, Chinese Academy of Sciences.
+
+<span class='anchor' id='collaboration'></span>
+
+# 📖 Collaboration
+Longtime collaborator（alphabetical sort of the corresponding affiliation）
+- Prof. [Marc Avila](https://www.zarm.uni-bremen.de/en/about-us/prof-dr-marc-avila) (University of Bremen)
+
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications 
@@ -77,26 +95,7 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 
 - [A single-camera synthetic Schlieren method for the measurement of free liquid surfaces](https://doi.org/10.1007/s00348-021-03326-0).
 **Huixin Li**, [Marc Avila](https://www.zarm.uni-bremen.de/en/about-us/prof-dr-marc-avila), [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en)
-
-<span class='anchor' id='honors-and-awards'></span>
-
-# 🎖 Honors and Awards
-- *2022.10*, ZARM Young Talent Promotion Award, Germany
-- *2018.09*, China Scholarship Council (CSC) PhD Scholarship
-
-<span class='anchor' id='educations'></span>
-
-# 📖 Educations
-- *2018.10 - 2023.02*, Fluid Dynamics (PhD), ZARM, University of Bremen. 
-- *2015.09 - 2018.06*, Fluid Dynamics (Master), Institute of Mechanics, Chinese Academy of Sciences.
-
-<span class='anchor' id='collaboration'></span>
-
-# 📖 Collaboration
-Longtime collaborator（alphabetical sort of the corresponding affiliation）
-- Prof. [Marc Avila](https://www.zarm.uni-bremen.de/en/about-us/prof-dr-marc-avila) (University of Bremen)
-
-
+  
 # 💬 Conferences and Talks
 - *2025.09*, European Fluid Dynamics Conference, Dublin, Ireland. 
 - *2025.07*, Chinese Congress of Theoretical and Applied Mechanics, Changsha.
