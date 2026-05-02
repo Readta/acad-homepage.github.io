@@ -1,11 +1,8 @@
 ---
-layout: mystle
+layout: default
 title: "Publications"
 permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /author_profile.html
 ---
 
 # 📝 Publications 
