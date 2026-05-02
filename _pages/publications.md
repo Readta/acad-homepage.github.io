@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: mystle
 title: "Publications"
 permalink: /publications/
 author_profile: true
