@@ -34,7 +34,7 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026</div><img src='images/ASF.png' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026</div><img src='images/ASF.jpg' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Anomalous scaling of passive scalar fluctuations in experiments of turbulent pipe flow](https://doi.org/10.1017/jfm.2026.11436).
 **Huixin Li**, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), Guowei He, 2026, *J. Fluid Mech.*.
