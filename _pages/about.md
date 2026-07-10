@@ -35,6 +35,13 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OE 2026</div><img src='images/OE.png' alt="sym" width="50%"></div></div>
+<div class='paper-box-text' markdown="1">
+- [Turbulent mixing in a transverse jet from an axisymmetric body under unsteady motion](https://doi.org/10.1016/j.oceaneng.2026.126870).
+**Huixin Li**, Chenguang Yuan, Guowei He, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), 2026, *Ocean Engineering*.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026</div><img src='images/ASF.jpg' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 - [Anomalous scaling of passive scalar fluctuations in experiments of turbulent pipe flow](https://doi.org/10.1017/jfm.2026.11436).
