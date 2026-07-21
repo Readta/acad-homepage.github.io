@@ -27,7 +27,8 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉🎉 The paper about "Experimental investigation of fractal features of passive scalar mixing in turbulent pipe flow" is accepted in *Ocean Engineering*.
+- *2026.07*: &nbsp;🎉🎉 The paper about "Tracking footprint motions of streamwise vortices in turbulent boundary layers of transversely curved plates is accepted in *Physics of Fluids*.
+- *2026.07*: &nbsp;🎉🎉 The paper about "Turbulent mixing in a transverse jet from an axisymmetric body under unsteady motion" is accepted in *Ocean Engineering*.
 - *2026.06*: &nbsp;🎉🎉 We warmly welcome [Ms. Huiyu Xiao](www.linkedin.com/in/anna-xiao-48a108311) from *University of Toronto* to visit our lab!
 - *2026.03*: &nbsp;🎉🎉 The paper about "Anomalous scaling of passive scalar mixing in pipe flow" is accepted in *Journal of Fluid Mechanics*. 
 - *2025.12*: &nbsp;🎉🎉 Two papers published in *Journal of Fluid Mechanics* and one paper published in *Physical Review Fluids*. 
@@ -67,6 +68,12 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 **Huixin Li**, Mohammad Mehdi Zamani Asl, Bastian Bäuerlein, [Kerstin Avila](https://uol.de/en/physics/research/tucs/members), [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en) and [Marc Avila](https://www.zarm.uni-bremen.de/en/about-us/prof-dr-marc-avila), 2025, *Phys. Rev. Fluids*.
 </div>
 </div>
+
+- [Tracking footprint motions of streamwise vortices in turbulent boundary layers of transversely curved plates].
+Liwei Shi, **Huixin Li** (Main corresponding author), [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en)
+
+- [Turbulent mixing in a transverse jet from an axisymmetric body under unsteady motion](https://doi.org/10.1016/j.oceaneng.2026.126870).
+**Huixin Li**, Chenguang Yuan, Guowei He, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en)
 
 - [A synthetic Schlieren method for laboratory measuring density profiles of a stratified fluid](https://doi.org/10.1016/j.expthermflusci.2024.111242).
 **Huixin Li**, Haihan Liu, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en)
