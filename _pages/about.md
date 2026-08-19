@@ -111,7 +111,7 @@ Longtime collaborator（alphabetical sort of the corresponding affiliation）
 <span class='anchor' id='Conferences and Talks'></span>
   
 # 💬 Conferences and Talks
-- *2025.08*, 14th National Conference on Fluid Mechanics, Qingdao, China.
+- *2026.08*, 14th National Conference on Fluid Mechanics, Qingdao, China.
 - *2025.12*, Experimental Fluid Mechanics Seminar, Changsha, China.
 - *2025.09*, European Fluid Dynamics Conference, Dublin, Ireland. 
 - *2025.07*, Chinese Congress of Theoretical and Applied Mechanics, Changsha, China.
