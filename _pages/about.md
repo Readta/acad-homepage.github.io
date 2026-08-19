@@ -70,7 +70,7 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 </div>
 </div>
 
-- [Tracking footprint motions of streamwise vortices in turbulent boundary layers of transversely curved plates].
+- [Tracking footprint motions of streamwise vortices in turbulent boundary layers of transversely curved plates](https://pubs.aip.org/aip/pof/article/38/8/085115/3400454/Tracking-footprint-motions-of-streamwise-vortices).
 Liwei Shi, **Huixin Li** (Main corresponding author), [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en)
 
 - [Turbulent mixing in a transverse jet from an axisymmetric body under unsteady motion](https://doi.org/10.1016/j.oceaneng.2026.126870).
