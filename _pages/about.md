@@ -28,7 +28,8 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 
 # 🔥 News
 - *2026.08*: &nbsp;🎉🎉 The paper about "The effect of Schmidt number on space-time correlation of scalar fluctuations in wall-bounded shear flow“ is accepted in *Journal of Fluid Mechanics*.
-- *2026.07*: &nbsp;🎉🎉 The paper of **M.Sc. Liwei Shi** about "Tracking footprint motions of streamwise vortices in turbulent boundary layers of transversely curved plates” is accepted in *Physics of Fluids*.
+- *2026.08*: &nbsp;🎉🎉 The paper of **M.Sc. Chenguang Yuan** about "The effect of Schmidt number on space-time correlation of scalar fluctuations in wall-bounded shear flow“ is accepted in *Journal of Fluid Mechanics*.
+- *2026.07*: &nbsp;🎉🎉 The paper of **M.Sc. Liwei Shi** about "A towing-flume with motion-tracking optical flow diagnostics” is published in *Rev. Sci. Instrum.*.
 - *2026.07*: &nbsp;🎉🎉 The paper about "Turbulent mixing in a transverse jet from an axisymmetric body under unsteady motion" is accepted in *Ocean Engineering*.
 - *2026.06*: &nbsp;🎉🎉 We warmly welcome [Ms. Huiyu Xiao](www.linkedin.com/in/anna-xiao-48a108311) from *University of Toronto* to visit our lab!
 - *2026.03*: &nbsp;🎉🎉 The paper about "Anomalous scaling of passive scalar mixing in pipe flow" is accepted in *Journal of Fluid Mechanics*. 
@@ -69,6 +70,9 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 **Huixin Li**, Mohammad Mehdi Zamani Asl, Bastian Bäuerlein, [Kerstin Avila](https://uol.de/en/physics/research/tucs/members), [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en) and [Marc Avila](https://www.zarm.uni-bremen.de/en/about-us/prof-dr-marc-avila), 2025, *Phys. Rev. Fluids*.
 </div>
 </div>
+
+- [A towing-flume with motion-tracking optical flow diagnostics](https://pubs.aip.org/aip/rsi/article/97/8/085205/3401478/A-towing-flume-with-motion-tracking-optical-flow).
+Chenguang Yuan, **Huixin Li**, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en)
 
 - [Tracking footprint motions of streamwise vortices in turbulent boundary layers of transversely curved plates](https://pubs.aip.org/aip/pof/article/38/8/085115/3400454/Tracking-footprint-motions-of-streamwise-vortices).
 Liwei Shi, **Huixin Li** (Main corresponding author), [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en)
