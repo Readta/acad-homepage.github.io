@@ -54,6 +54,9 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2025</div><img src='images/fractal.jpg' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">  
+- [The effect of Schmidt number on space–time correlation of scalar fluctuations in wall-bounded shear flow](https://doi.org/10.1017/jfm.2026.12021).
+**Huixin Li**, Guowei He, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), 2026, *J. Fluid Mech.*.
+  
 - [Experimental study on space–time correlations of velocity and passive scalar fields in turbulent pipe flows](https://doi.org/10.1017/jfm.2025.10737).
 **Huixin Li**, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), Guowei He, 2025, *J. Fluid Mech.*.
 
