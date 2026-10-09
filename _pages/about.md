@@ -27,12 +27,11 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 The paper about "Invariance and temporal decorrelation in space-time correlations of turbulent passive scalars“ is accepted in *J. Fluid Mech.*.
 - *2026.08*: &nbsp;🎉🎉 The paper about "The effect of Schmidt number on space-time correlation of scalar fluctuations in wall-bounded shear flow“ is accepted in *J. Fluid Mech.*.
 - *2026.08*: &nbsp;🎉🎉 The paper of **M.Sc. Chenguang Yuan** about "A towing-flume with motion-tracking optical flow diagnostics“ is published in *Rev. Sci. Instrum.*.
 - *2026.07*: &nbsp;🎉🎉 The paper of **M.Sc. Liwei Shi** about "Tracking footprint motions of streamwise vortices in turbulent boundary layers of transversely curved plates” is published in *Phys. Fluids*.
 - *2026.07*: &nbsp;🎉🎉 The paper about "Turbulent mixing in a transverse jet from an axisymmetric body under unsteady motion" is accepted in *Ocean Eng.*.
-- *2026.06*: &nbsp;🎉🎉 We warmly welcome [Ms. Huiyu Xiao](www.linkedin.com/in/anna-xiao-48a108311) from *University of Toronto* to visit our lab!
-- *2026.03*: &nbsp;🎉🎉 The paper about "Anomalous scaling of passive scalar mixing in pipe flow" is accepted in *J. Fluid Mech.*. 
 
 <span class='anchor' id='publications'></span>
 
