@@ -27,6 +27,7 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 <span class='anchor' id='news'></span>
 
 # 🔥 News
+- *2026.11*: &nbsp;🎉🎉 The paper about "Experimental observation of bifractality for area-integrated passive scalar fluctuations in turbulent pipe flow“ is accepted in *J. Fluid Mech.*.
 - *2026.10*: &nbsp;🎉🎉 The paper about "Invariance and temporal decorrelation in space-time correlations of turbulent passive scalars“ is accepted in *J. Fluid Mech.*.
 - *2026.08*: &nbsp;🎉🎉 The paper about "The effect of Schmidt number on space-time correlation of scalar fluctuations in wall-bounded shear flow“ is accepted in *J. Fluid Mech.*.
 - *2026.08*: &nbsp;🎉🎉 The paper of **M.Sc. Chenguang Yuan** about "A towing-flume with motion-tracking optical flow diagnostics“ is published in *Rev. Sci. Instrum.*.
@@ -39,6 +40,13 @@ My research focuses on **turbulent scalar mixing** in wall-bounded turbulence an
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026</div><img src='images/JFM2026.jpg' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+- [Experimental observation of bifractality for area-integrated passive scalar fluctuations in turbulent pipe flow].
+**Huixin Li**, Jin-Han Xie, Guowei He, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), 2026, *J. Fluid Mech.*, Accepted.
+
+- [Invariance and temporal decorrelation in space–time correlations of turbulent passive scalars].
+**Huixin Li**, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), Guowei He, 2026, *J. Fluid Mech.*, Accepted.
+
 - [The effect of Schmidt number on space–time correlation of scalar fluctuations in wall-bounded shear flow](https://doi.org/10.1017/jfm.2026.12021).
 **Huixin Li**, Guowei He, [Duo Xu](https://people.ucas.ac.cn/~DuoXu?language=en), 2026, *J. Fluid Mech.*.
   
