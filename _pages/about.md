@@ -38,7 +38,7 @@ My research focuses on **turbulent scalar mixing**, **wall-bounded turbulence** 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026</div><img src='images/JFM2026.jpg' alt="sym" width="75%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JFM 2026</div><img src='images/JFMNew.jpg' alt="sym" width="75%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Experimental observation of bifractality for area-integrated passive scalar fluctuations in turbulent pipe flow].
